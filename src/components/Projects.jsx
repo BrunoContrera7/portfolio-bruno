@@ -31,6 +31,24 @@ function Projects() {
       tech: ["NodeJS", "Express", "Supabase", "React"],
       github: "https://github.com/BrunoContrera7/project-panel-holiness",
     },
+    {
+      id: 4,
+      title: "App Pizarra 11",
+      image: "./images/app.jpg",
+      description:
+        "Application for creating 11-a-side football formations, with selection from a list of names. It includes a whiteboard for drawing and moving pieces on a board, with backup of previous formations.",
+      tech: ["HTML", "CSS", "JavaScript", "React"],
+      github: "https://github.com/BrunoContrera7/app-futbol",
+    },
+    {
+      id: 5,
+      title: "Panel Catalog - E-commerce",
+      image: "./images/panel.jpg",
+      description:
+        "A PHP-based panel for a perfume catalog, allowing users to add, modify, and delete products. Username and password required.",
+      tech: ["PHP", "CSS", "React"],
+      github: "https://github.com/BrunoContrera7/panel-holines-new",
+    },
   ];
 
   return (
