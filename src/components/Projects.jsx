@@ -18,7 +18,7 @@ function Projects() {
       title: "Demo Nutricionista",
       image: "./images/nutri-demo.jpg",
       description:
-        "An online product catalog developed for Holiness Parfum. Built with React, Tailwind, and JSON File for product management and modern UI design.",
+        "Landing page demo for a professional nutritionist.",
       tech: ["React", "Tailwind"],
       github: "https://github.com/BrunoContrera7/nutri",
       demo: "https://nutri-demo.netlify.app/"
