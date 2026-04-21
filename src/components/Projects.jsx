@@ -15,6 +15,16 @@ function Projects() {
     },
     {
       id: 2,
+      title: "Demo Nutricionista",
+      image: "./images/nutri-demo.jpg",
+      description:
+        "An online product catalog developed for Holiness Parfum. Built with React, Tailwind, and JSON File for product management and modern UI design.",
+      tech: ["React", "Tailwind"],
+      github: "https://github.com/BrunoContrera7/nutri",
+      demo: "https://nutri-demo.netlify.app/"
+    },
+    {
+      id: 3,
       title: "Golden Boy - Online Shopping",
       image: "./images/botines.jpg",
       description:
@@ -23,7 +33,7 @@ function Projects() {
       github: "https://github.com/BrunoContrera7/BotinesGoldenBoy",
     },
     {
-      id: 3,
+      id: 4,
       title: "Panel de Administrador - E-commerce",
       image: "./images/project3.jpg",
       description:
@@ -32,7 +42,7 @@ function Projects() {
       github: "https://github.com/BrunoContrera7/project-panel-holiness",
     },
     {
-      id: 4,
+      id: 5,
       title: "App Pizarra 11",
       image: "./images/app.jpg",
       description:
@@ -41,7 +51,7 @@ function Projects() {
       github: "https://github.com/BrunoContrera7/app-futbol",
     },
     {
-      id: 5,
+      id: 6,
       title: "Panel Catalog - E-commerce",
       image: "./images/panel.jpg",
       description:
