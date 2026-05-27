@@ -66,14 +66,15 @@ function About() {
         {/* Resume button */}
         <div className="flex gap-3">
           <a
-          href="/Resume-CV.pdf"
+          href="/CV-Bruno-Contrera.pdf"
+          download="CV-Bruno-Contrera.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 border border-gray-500 hover:border-teal-400 text-gray-300 hover:text-white px-4 py-2 rounded-lg transition"
         >
           <span className="text-sm font-medium">
             <FaFilePdf className="inline mr-2" />
-            Resume</span>
+            Download CV</span>
         </a>
         <a
           href="./images/certificado.jpg"
