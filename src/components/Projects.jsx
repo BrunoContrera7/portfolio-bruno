@@ -5,6 +5,16 @@ function Projects() {
   const projects = [
     {
       id: 1,
+      title: "Smart scorer of Argentine trick",
+      image: "./images/truco-app.jpg",
+      description:
+        "Argentine truco scorer, intelligent, with 3v3 head-to-head duels, calculated envido foul, can be used offline.",
+      tech: ["React", "Tailwind", "Vite"],
+      github: "https://github.com/BrunoContrera7/al-mazo",
+      demo: "https://al-mazo.vercel.app"
+    },
+    {
+      id: 2,
       title: "Holiness Parfum - Online Catalog",
       image: "./images/holiness.jpg",
       description:
@@ -14,7 +24,7 @@ function Projects() {
       demo: "https://holinessparfum.shop/"
     },
     {
-      id: 2,
+      id: 3,
       title: "Web app for player management - Kinesiology",
       image: "./images/app-kine.jpg",
       description:
@@ -23,7 +33,7 @@ function Projects() {
       github: "https://github.com/BrunoContrera7/app-kine"
     },
     {
-      id: 3,
+      id: 4,
       title: "Kinesiologist report form",
       image: "./images/form.jpg",
       description:
@@ -33,7 +43,7 @@ function Projects() {
       demo: "https://postpartido.netlify.app"
     },
     {
-      id: 4,
+      id: 5,
       title: "Demo Nutricionist Landing Page",
       image: "./images/nutri-demo.jpg",
       description:
@@ -43,7 +53,7 @@ function Projects() {
       demo: "https://nutri-demo.netlify.app/"
     },
     {
-      id: 5,
+      id: 6,
       title: "Golden Boy - Online Shopping",
       image: "./images/botines.jpg",
       description:
@@ -52,7 +62,7 @@ function Projects() {
       github: "https://github.com/BrunoContrera7/BotinesGoldenBoy",
     },
     {
-      id: 6,
+      id: 7,
       title: "Panel de Administrador - E-commerce",
       image: "./images/project3.jpg",
       description:
@@ -61,7 +71,7 @@ function Projects() {
       github: "https://github.com/BrunoContrera7/project-panel-holiness",
     },
     {
-      id: 7,
+      id: 8,
       title: "App Pizarra 11",
       image: "./images/app.jpg",
       description:
@@ -70,7 +80,7 @@ function Projects() {
       github: "https://github.com/BrunoContrera7/app-futbol",
     },
     {
-      id: 8,
+      id: 9,
       title: "Panel Catalog - E-commerce",
       image: "./images/panel.jpg",
       description:
